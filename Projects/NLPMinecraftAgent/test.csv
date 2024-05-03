@@ -1,0 +1,101 @@
+text,label
+"Hey Jerry, open that container",0
+"Get me item from storage",0
+"Open that storage and get me something",0
+"Get me diamonds from that chest",0
+"Go to plant in the world",1
+"Smell something on grass",1
+"Sniff plant",1
+"Check the scent of the plant",1
+"Go to horse",2
+"Hey Jerry, go to the pig",2
+"Run towards that pig",2
+"Arrive at the giant",2
+"Go take a dive in ocean",3
+"Get inside that lake",3
+"Dip your feet in there",3
+"Get wet",3
+"Warm up your hands",4
+"Heat up",4
+"Hey Jerry, get hot",4
+"Go to the fire",4
+"Hey Jerry, make some tunes",5
+"Please, make music",5
+"Play a tone",5
+"Hit a musical note",5
+"Hey Jerry, please open the gate",6
+"Can you open gate and go through it?",6
+"Run through that fence",6
+Get into that closed off area,6
+"Run inside house",7
+"Can you go indoors",7
+"Hey Jerry, put a roof over your head",7
+"Please go inside",7
+"Lets have a conversation",8
+"I will talk to the agent",8
+"Hey Jerry, let's talk",8
+"Lets speak our minds",8
+"Jerry, go straight",9
+"Please move directly to your north",9
+"Can we move forward",9
+"Move towards whatever is in front",9
+"Lets move backwards",10
+"Move backwards, Jerry",10
+"Jerry, let's fall back!",10
+"Lets go back",10
+"Please strafe left",11
+"strafe left, Jerry",11
+"Begin strafing directly to your west",11
+"Lets start moving left",11
+"Lets start strafing right",12
+"Strafe right",12
+"Move right",12
+"Move directly to your east",12
+"Please pitch upwards",13
+"Hey Jerry, look up",13
+"Jerry, can u look at sky",13
+"Begin looking directly up",13
+"Please look downwards",14
+"Hey Jerry, look down",14
+"Start looking down, Jerrrry",14
+"Can u look down",14
+"Please turn left",15
+"Hey Jerry, turn left",15
+"Start turning opposite of how clock moves",15
+"Turn towards your left side",15
+"Please turn right",16
+"Hey Jerry, turn right",16
+"Turn how a clock does",16
+"Can u begin turning right?",16
+"Let's jump",17
+"Try to touch the sky",17
+"How high can you jump?",17
+"What is your vertical hop?",17
+"Please stop",18
+"Hey Jerry, stop",18
+"Drop what you're doing",18
+"Cease all movement",18
+"I need to hide",19
+"Hey Jerry, crouch for me",19
+"Get down!",19
+"Bend over",19
+"We can stand back up now",20
+"Get back up",20
+"Fix your posture",20
+"Stand up straight, Jerry, you're leaning too much",20
+"Hey Jerry, attack now",21
+"Become violent",21
+"Do you know how to fight, Jerry?",21
+"Punch",21
+"Hey Jerry, cease the attack",22
+"Calm down Jerry, no need for fighting.",22
+"Stop all fights",22
+"No more punches",22
+"Hey Jerry, use this item",23
+"Does this item do anything?",23
+"Lets try to use it",23
+"Open this",23
+"Hey Jerry, close this item",24
+"Let's close this item",24
+"Lets shut this closed",24
+"Stop using this chest",24

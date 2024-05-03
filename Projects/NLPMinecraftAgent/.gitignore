@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+malmoTextClassifier
+*.tgz
+mission_records
+__pycache__

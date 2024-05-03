@@ -1,0 +1,183 @@
+text,label
+"Open chest",0
+"Open the chest",0
+"Get something from the chest, Jerry.",0
+"Please, get an item from the storage",0
+"Interact with the chest",0
+"Use the chest",0
+"Look into the container",0
+"Go close to wheat",1
+"Gather wheat",1
+"Smell plant, Jerry.",1
+"Look at flower",1
+"Get planted potato",1
+"Break potato",1
+"Go to item from nature",1
+"Reach the horse",2
+"Go to chicken",2
+"Get to that creeper",2
+"Go to Wolf",2
+"Go to mule",2
+"Go to the living thing",2
+"Arrive at the entity",2
+"Run to the creeper",2
+"Jerry, run to the wolf",2
+"Approach the horse",2
+"Get to that creature",2
+"Walk towards that animal",2
+"Jerry, go towards that being",2
+"Go to that witch",2
+"Go inside the pool",3
+"Dive into the water",3
+"Go bathe",3
+"Dip your head in the water",3
+"Go swimming",3
+"Dive in the lake",3
+"Do you know how to swim, Jerry?",3
+"Sit by the fire",4
+"Go to the campfire",4
+"Roast marshmellows",4
+"Get warm",4
+"Heat up next to that fire",4
+"Go camping",4
+"Jerry, you are cold, you should get warm",4
+"Play some music",5
+"Hit the jukebox",5
+"Make some sounds",5
+"Become a musician",5
+"Make a song",5
+"Perform a song",5
+"Do you know how to play music, Jerry?",5
+"Go through that gate",6
+"Go inside the enclosure",6
+"Open the door and go through fence",6
+"Trespass into the closed area",6
+"Go into that gate",6
+"Break in that fence",6
+"Hop over that fence, Jerry",6
+"Step through that door",7
+"Open door",7
+"Go inside house",7
+"Break into that house",7
+"Explore that house",7
+"Step indoors",7
+"Jerry, put a roof over your head",7
+"Talk to me",8
+"Lets chat",8
+"Can I talk to you?",8
+"Let me tell you a secret",8
+"Speak",8
+"I'd like to speak with someone",8
+"Can I talk to you about something, Jerry?",8
+"Hey, please move forwards",9
+"Move straight ahead",9
+"Move forward",9
+"Head towards whatever is ahead, Jerry",9
+"Go forwards",9
+"Advance forwards",9
+"Full speed ahead",9
+"Go backward",10
+"Fall backward",10
+"Fall back",10
+"Move backward, Jerry",10
+"Go backwards",10
+"Hi please go backwards",10
+"Hey please move backward",10
+"Strafe left",11
+"Please strafe left",11
+"Let us move left",11
+"We need to move left",11
+"Jerry, can you strafe us left, please?",11
+"Lets strafe to our west",11
+"Can we strafe to our left hand side",11
+"Strafe right",12
+"Please move right",12
+"Let us strafe right",12
+"We need to strafe right",12
+"Jerry, move to right hand side",12
+"Strafe to your direct east",12
+"Jerry start strafing right",12
+"Pitch upwards",13
+"Start pitching up",13
+"Look upwards",13
+"Look up, Jerry",13
+"Please look up",13
+"Start looking up, Jerry",13
+"Can you begin looking up towards the sky",13
+"Pitch downwards",14
+"Pitch down",14
+"Look downwards",14
+"Look down, Jerry",14
+"Start looking towards your feet, Jerry",14
+"Start pitching down",14
+"Move your head downwards, Jerry",14
+"Turn left",15
+"Look left, Jerry",15
+"Turn leftward",15
+"Start spinning counter-clockwise",15
+"Start turning left, please.",15
+"Start spinning towards the left side",15
+"Turn counter clockwise",15
+"Turn right",16
+"look right",16
+"Turn rightward",16
+"Start spinning clockwise",16
+"Start looking right, Jerry",16
+"Turn clockwise",16
+"Jerry, can u start spinning towards right?",16
+"Start jumping",17
+"Jump",17
+"Jerry begin jumping",17
+"How high can you jump jerry",17
+"Jump high",17
+"Practice your verticals, Jerry",17
+"Do jump squats jerry",17
+"Stop movement",18
+"Stop moving",18
+"Stop every type of moves",18
+"Stop all movement, Please",18
+"Stay still, Jerry",18
+"Do not move anymore",18
+"Jerry can you please stay still for one second?",18
+"Start crouching",19
+"Crouch",19
+"Crouch down",19
+"Hide",19
+"Get down, Jerry!",19
+"Start crouching",19
+"Can you please crouch",19
+"Stop crouching",20
+"Stand back up",20
+"Stand up",20
+"Stand straight, Jerry.",20
+"Get nice and tall, please",20
+"Extend your spine",20
+"Get as tall as you can",20
+"Attack",21
+"Start attacking",21
+"Jerry, attack!",21
+"Begin punching",21
+"Start hitting",21
+"Do karate, Jerry",21
+"Show some martial arts",21
+"Stop attack",22
+"Stop attacking",22
+"Cease fire",22
+"Cease attacking",22
+"Stop all violence",22
+"Stop hitting",22
+"Do no more damage",22
+"Use this",23
+"Open this",23
+"Use this item",23
+"Interact with this",23
+"Jerry, can you please inspect this",23
+"Utilize",23
+"Try using whatever is in front of us",23
+"Close this container",24
+"Stop using this chest",24
+"Shut the chest",24
+"Close the chest, Jerry!",24
+"Close this chest",24
+"Jerry, please close storage",24
+"Stop looking inside the chest",24
