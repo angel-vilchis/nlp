@@ -1,0 +1,12 @@
+.vscode/
+/ckpts
+__pycache__
+/configs/model/features.py
+/data
+/helpers/cleaning.py
+/notebooks
+/scripts/evaluate.py
+/scripts/submit.py
+/submissions
+/tensorboard_events
+/task_helpers/tags.py
